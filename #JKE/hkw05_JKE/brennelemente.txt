@@ -1,0 +1,6 @@
+DOB;de.unilog.hkw.brennelemente.Dose;Blech
+HOB;de.unilog.hkw.brennelemente.Holz;Birke
+MEA;de.unilog.hkw.moebel.Metallschrank;Aluminium
+PAP;de.unilog.hkw.brennelemente.Papier;Pappe
+SOC;de.unilog.hkw.moebel.Sofa;Cord
+AAA;de.unilog.hkw.moebel.DoesNotExist;XXX

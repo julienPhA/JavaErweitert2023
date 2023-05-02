@@ -1,0 +1,7 @@
+DOB;de.unilog.hkw.brennelemente.Dose;Blech
+HOLBIR;de.unilog.hkw.brennelemente.Holz;Birke
+MET;de.unilog.hkw.moebel.Metallschrank;Metall
+PAP;de.unilog.hkw.brennelemente.Papier;Pappe
+CORDSO;de.unilog.hkw.moebel.Sofa;Cord
+HOLEI;de.unilog.hkw.brennelemente.Holz;Buche
+HOLBU;de.unilog.hkw.brennelemente.Holz;Eiche

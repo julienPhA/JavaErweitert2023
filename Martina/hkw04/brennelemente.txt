@@ -1,0 +1,15 @@
+Cord;de.lbbw.hkw.moebel.Sofa;Cord
+Blech;de.lbbw.hkw.brennelemente.Dose;Blech
+Birke;de.lbbw.hkw.brennelemente.Holz;Birke
+Pappe;de.lbbw.hkw.brennelemente.Papier;Pappe
+Metall;de.lbbw.hkw.moebel.Metallschrank;Metall
+Cord;de.lbbw.hkw.moebel.Sofa;Cord
+Blech;de.lbbw.hkw.brennelemente.Dose;Blech
+Birke;de.lbbw.hkw.brennelemente.Holz;Birke
+Pappe;de.lbbw.hkw.brennelemente.Papier;Pappe
+Metall;de.lbbw.hkw.moebel.Metallschrank;Metall
+Cord;de.lbbw.hkw.moebel.Sofa;Cord
+Blech;de.lbbw.hkw.brennelemente.Dose;Blech
+Birke;de.lbbw.hkw.brennelemente.Holz;Birke
+Pappe;de.lbbw.hkw.brennelemente.Papier;Pappe
+Metall;de.lbbw.hkw.moebel.Metallschrank;Metall

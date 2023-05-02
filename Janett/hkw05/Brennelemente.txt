@@ -1,0 +1,5 @@
+Eiche;de.lbbw.brennelemente.Holz;Eiche;50
+Schrank;de.lbbw.moebel.MetallSchrank;Schrank;0
+Couch;de.lbbw.moebel.Sofa;Couch;35
+Blatt;de.lbbw.brennelemente.Papier;Blatt;5
+Eiche;de.lbbw.brennelemente.Holz;Eiche;50

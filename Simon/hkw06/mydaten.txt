@@ -1,0 +1,5 @@
+Buchenholz;de.lbbw.brennelemente.Holz;Buche;50
+Fichtenholz;de.lbbw.brennelemente.Holz;Fichte;25
+Fichtenholz;de.lbbw.brennelemente.Holz;Eiche;60
+Ecksofa;de.lbbw.moebel.Sofa;Sofa;5
+Dose;de.lbbw.Dose;Dose;0

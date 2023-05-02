@@ -1,0 +1,23 @@
+package de.lbbw;
+
+public class Dose {
+
+	String type;
+	
+	public Dose(String type) {
+		super();
+		this.type = type;
+	}
+
+	public String getType() {
+		return type;
+	}
+
+	@Override
+	public String toString() {
+		return "Dose [type=" + type + "]";
+	}
+	
+	
+	
+}

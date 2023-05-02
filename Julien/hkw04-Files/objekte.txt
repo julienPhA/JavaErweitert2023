@@ -1,0 +1,11 @@
+Zirbe;brennstoffe.Holz
+Birke;brennstoffe.Holz
+Leder;moebel.Sofa;Leder Sofa
+A4;brennstoffe.Papier
+Buche;brennstoffe.Holz
+Stoff;moebel.Sofa;Couch
+A5;brennstoffe.Papier
+Alu;moebel.Metallschrank;Spint
+Fichte;brennstoffe.Holz
+Blech;brennstoffe.Dose
+Eiche;moebel.Sofa;Eckbank

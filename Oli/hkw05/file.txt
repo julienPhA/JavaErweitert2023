@@ -1,0 +1,6 @@
+Buchenholz;de.lbbw.brennelemente.Holz;Buche;25
+Eichenholz;de.lbbw.brennelemente.Holz;Eiche;30
+Tannenholz;de.lbbw.brennelemente.Holz;Tanne;15
+Balsaholz;de.lbbw.brennelemente.Holz;Balsa;8
+Zeitung;de.lbbw.brennelemente.Papier;Zeitung;3
+Pappe;de.lbbw.brennelemente.Papier;Pappe;5
